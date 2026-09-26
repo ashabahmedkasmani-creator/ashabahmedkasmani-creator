@@ -6,7 +6,10 @@
   <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="http://alumni.saylanimit.com/">
+  <img src="https://img.shields.io/badge/Saylani_Alumni-5B2C83?style=for-the-badge&logoColor=white" />
 </a>
 <a href="mailto:YOUR_EMAIL">
   <img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -154,6 +157,7 @@ Frontend · React · Next.js · JavaScript
 Backend · PHP · Laravel · Python · Flask
 CMS · WordPress
 Database · MySQL · SQLite
+Alumni · Saylani IT Alumni
 Tools · Git · GitHub · VS Code
 
 </div>
@@ -165,7 +169,10 @@ Tools · Git · GitHub · VS Code
 <div align="center">
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="http://alumni.saylanimit.com/">
+<img src="https://img.shields.io/badge/Saylani_Alumni-5B2C83?style=for-the-badge&logoColor=white" />
 </a>
 <a href="YOUR_PORTFOLIO_URL">
 <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
