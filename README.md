@@ -18,6 +18,8 @@
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0618&height=4" width="100%"/>
+
 01 — About Me
 
 Ashab Ahmed
@@ -31,6 +33,8 @@ Ashab Ahmed
 I build responsive, database-driven and user-focused web applications — from clean interfaces to complete backend systems.
 
 I'm particularly interested in turning real-world ideas into working products, improving existing applications, and continuously expanding my development skills.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0618&height=4" width="100%"/>
 
 02 — What I Build
 
@@ -60,19 +64,23 @@ Custom WordPress and web solutions designed around real business requirements.
 </tr>
 </table>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0618&height=4" width="100%"/>
+
 03 — Tech Stack
 
 Languages & Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,laravel,js,react,nextjs,html,css" />
+<img src="https://skillicons.dev/icons?i=php,laravel,python,js,react,nextjs,html,css" />
 </p>
 
 Backend • CMS • Database • Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=wordpress,mysql,sqlite,bootstrap,tailwind,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=wordpress,mysql,sqlite,bootstrap,tailwind,flask,git,github,vscode" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0618&height=4" width="100%"/>
 
 04 — GitHub Activity
 
@@ -92,6 +100,8 @@ Backend • CMS • Database • Tools
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0618&height=4" width="100%"/>
+
 05 — Currently Building & Learning
 
 + Building full-stack web applications
@@ -101,6 +111,8 @@ Backend • CMS • Database • Tools
 + Improving UI/UX and responsive design
 + Turning practical ideas into real projects
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0618&height=4" width="100%"/>
+
 06 — Featured Projects
 
 Replace these with your actual best repositories.
@@ -109,11 +121,11 @@ Replace these with your actual best repositories.
 <tr>
 <td width="50%" valign="top">
 
-☀️ SolarEase
+☀️ Smart Solar
 
-Smart solar installation management platform with a complete workflow from requirements and quotation to installation and handover.
+A smart solar installation management platform covering requirements, calculation, quotation, payment, installation and handover.
 
-Stack: Flask Python SQLAlchemy SQLite
+Stack: Python Flask SQLAlchemy SQLite
 
 → View Repository
 
@@ -132,39 +144,21 @@ Stack: Laravel PHP MySQL JavaScript
 </tr>
 </table>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0618&height=4" width="100%"/>
+
 07 — Developer Snapshot
 
 <div align="center">
 
-Focus
-
-Technologies
-
-Frontend
-
-React.js • Next.js • JavaScript • HTML • CSS
-
-Backend
-
-PHP • Laravel
-
-CMS
-
-WordPress
-
-Database
-
-MySQL • SQLite
-
-Workflow
-
-Git • GitHub • VS Code
-
-Interests
-
-Full Stack • UI/UX • APIs • Web Apps
+Frontend · React · Next.js · JavaScript
+Backend · PHP · Laravel · Python · Flask
+CMS · WordPress
+Database · MySQL · SQLite
+Tools · Git · GitHub · VS Code
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0618&height=4" width="100%"/>
 
 08 — Let's Connect
 
